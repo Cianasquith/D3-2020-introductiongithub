@@ -29,8 +29,12 @@ z-index:1;
 }
 #tree {
 top: -30px;
-left: 500px;
+display: block;
+    margin-left: auto;
+    margin-right: auto;
 position :absolute;
 z-index:2;
 opacity: 50%;
+width: 500px;
+
 }

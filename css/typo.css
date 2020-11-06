@@ -27,11 +27,11 @@ font-weight: 700;
 text-transform: uppercase;
 letter-spacing: 4px;
 margin-bottom: 40px;
-text-align: center;
-margin-left:450px;
-margin-right:450px;
+width: 500px;
+margin-left: auto;
+    margin-right: auto;
 text-align: justify;
-color: #c4c3bd;
+color: white;
 
 }
 #logo{
